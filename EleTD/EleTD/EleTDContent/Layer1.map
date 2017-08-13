@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TileMap BackGroundImage="background">
+  <TileLayer Name="Layer1" ContentPath="C:\Users\Arsinx\Documents\Visual Studio 2010\Projects\EleTD\EleTD\EleTDContent">
+    <Textures>
+      <Texture Name="BaseTiles\Tile6" ID="0" />
+      <Texture Name="BaseTiles\Untitled8_6" ID="1" />
+      <Texture Name="BaseTiles\Untitled8_7" ID="2" />
+      <Texture Name="BaseTiles\Untitled8_8" ID="3" />
+      <Texture Name="BaseTiles\Untitled8_9" ID="4" />
+      <Texture Name="BaseTiles\Untitled10" ID="5" />
+      <Texture Name="BaseTiles\Untitled-11" ID="6" />
+      <Texture Name="BaseTiles\Untitled12" ID="7" />
+      <Texture Name="BaseTiles\Untitled13" ID="8" />
+      <Texture Name="BaseTiles\Untitled14" ID="9" />
+      <Texture Name="BaseTiles\Untitled9" ID="10" />
+      <Texture Name="BaseTiles\Untitled8_5" ID="11" />
+      <Texture Name="BaseTiles\tile81" ID="12" />
+      <Texture Name="BaseTiles\Tile7" ID="13" />
+      <Texture Name="BaseTiles\Tile5" ID="14" />
+      <Texture Name="BaseTiles\Tile4" ID="15" />
+      <Texture Name="BaseTiles\Tile3" ID="16" />
+      <Texture Name="BaseTiles\Tile2" ID="17" />
+      <Texture Name="BaseTiles\Tile1" ID="25" />
+      <Texture Name="BaseTiles\texture2" ID="26" />
+      <Texture Name="BaseTiles\texture1" ID="27" />
+      <Texture Name="BaseTiles\se_free_road_texture" ID="31" />
+      <Texture Name="BaseTiles\se_free_mud_texture" ID="32" />
+      <Texture Name="BaseTiles\se_free_ground_texture" ID="33" />
+      <Texture Name="BaseTiles\se_free_grass_texture" ID="34" />
+      <Texture Name="BaseTiles\se_free_dirt_texture" ID="35" />
+      <Texture Name="BaseTiles\grassdiag2" ID="41" />
+      <Texture Name="BaseTiles\grassdiag" ID="42" />
+      <Texture Name="BaseTiles\Grass3" ID="44" />
+      <Texture Name="BaseTiles\Grass2" ID="46" />
+      <Texture Name="BaseTiles\Grass" ID="48" />
+      <Texture Name="BaseTiles\Gr4" ID="49" />
+      <Texture Name="BaseTiles\gr3" ID="50" />
+      <Texture Name="BaseTiles\gr2" ID="51" />
+      <Texture Name="BaseTiles\gr" ID="52" />
+      <Texture Name="BaseTiles\Earth tile" ID="54" />
+      <Texture Name="BaseTiles\Earth 3" ID="57" />
+      <Texture Name="BaseTiles\background3" ID="58" />
+      <Texture Name="BaseTiles\background2" ID="59" />
+      <Texture Name="BaseTiles\background" ID="60" />
+    </Textures>
+    <Properties>
+      <Alpha Value="1" />
+    </Properties>
+    <Layer Width="30" Height="30">
+      <TileRow> 46 46 46 51 56 56 52 46 46 51 56 56 41 49 49 49 49 49 49 49 49 49 49 49 49 49 49 46 46 46</TileRow>
+      <TileRow> 46 46 46 51 56 56 52 46 46 51 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 46 51 56 56 52 46 46 51 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 46 51 56 56 52 46 46 46 44 44 44 44 44 44 44 44 44 44 44 44 44 44 39 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 46 51 56 56 52 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 50 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 46 51 56 56 52 46 46 46 46 46 49 49 49 49 49 49 49 49 49 49 46 46 50 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 46 51 56 56 52 46 46 46 46 51 56 56 56 56 56 56 56 56 56 56 52 46 50 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 46 51 56 56 52 46 46 46 46 51 56 56 56 56 56 56 56 56 56 56 52 46 50 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 46 51 56 56 52 46 46 46 46 51 56 56 40 44 44 44 44 39 56 56 52 46 50 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 46 51 56 56 52 46 46 46 46 51 56 56 52 46 46 46 46 51 56 56 52 46 50 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 46 51 56 56 41 49 49 49 49 42 56 56 52 46 46 46 46 51 56 56 52 46 50 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 46 51 56 56 56 56 56 56 56 56 56 56 52 46 46 46 46 51 56 56 52 46 50 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 46 51 56 56 56 56 56 56 56 56 56 56 52 46 46 46 46 51 56 56 52 46 50 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 46 46 44 44 44 44 44 44 44 44 44 44 46 46 46 46 46 51 56 56 52 46 51 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 51 56 56 52 46 51 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 46 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 42 56 56 52 46 51 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 50 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 52 46 51 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 50 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 52 46 51 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 50 56 56 40 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 46 46 51 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 50 56 56 52 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 51 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 50 56 56 52 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 51 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 50 56 56 41 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 42 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 51 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 51 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 52 46 46</TileRow>
+      <TileRow> 46 46 46 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 46 46 46</TileRow>
+      <TileRow> 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46</TileRow>
+      <TileRow> 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46</TileRow>
+      <TileRow> 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46</TileRow>
+      <TileRow> 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46</TileRow>
+      <TileRow> 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46 46</TileRow>
+    </Layer>
+  </TileLayer>
+  <CollisionMap Width="30" Height="30">
+    <CollisionRow> 1 1 1 1 0 0 0 1 1 1 1 1 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 0 0 0 1 1 1 1 1 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 1 1 1 1 1 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 1 1 1 1 1 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 1 1 1 1 1 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1 1 1 1 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1 1 1 1 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1 0 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0</CollisionRow>
+    <CollisionRow> 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</CollisionRow>
+  </CollisionMap>
+</TileMap>

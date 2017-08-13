@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TileMap BackGroundImage="background">
+  <TileLayer Name="Layer1" ContentPath="C:\Users\Arsinx\Documents\Visual Studio 2010\Projects\EleTD\EleTD\EleTDContent">
+    <Textures>
+      <Texture Name="BaseTiles\Earth tile 2" ID="0" />
+      <Texture Name="BaseTiles\Earth tile" ID="1" />
+      <Texture Name="BaseTiles\gr" ID="2" />
+      <Texture Name="BaseTiles\gr2" ID="3" />
+      <Texture Name="BaseTiles\gr3" ID="4" />
+      <Texture Name="BaseTiles\Grass" ID="5" />
+      <Texture Name="BaseTiles\Grass2" ID="6" />
+      <Texture Name="BaseTiles\Grass3" ID="7" />
+      <Texture Name="BaseTiles\grassdiag" ID="8" />
+      <Texture Name="BaseTiles\grassdiag2" ID="9" />
+      <Texture Name="BaseTiles\Grassdiag3" ID="10" />
+      <Texture Name="BaseTiles\Grassy" ID="11" />
+    </Textures>
+    <Properties>
+      <Alpha Value="0.99" />
+    </Properties>
+    <Layer Width="30" Height="30">
+      <TileRow> 6 6 6 4 1 1 2 6 6 4 1 1 9 3 3 3 3 3 3 3 3 3 3 6 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 4 1 1 2 6 6 4 1 1 1 1 1 1 1 1 1 1 1 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 4 1 1 2 6 6 4 1 1 1 1 1 1 1 1 1 1 1 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 4 1 1 2 6 6 6 7 7 7 7 7 7 7 7 7 7 11 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 4 1 1 2 6 6 6 6 6 6 6 6 6 6 6 6 6 4 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 4 1 1 2 6 6 6 3 3 3 3 3 3 3 3 6 6 4 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 4 1 1 2 6 6 4 1 1 1 1 1 1 1 1 2 6 4 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 4 1 1 2 6 6 4 1 1 1 1 1 1 1 1 2 6 4 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 4 1 1 2 6 6 4 1 1 10 7 7 11 1 1 2 6 4 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 4 1 1 2 6 6 4 1 1 2 6 6 4 1 1 2 6 4 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 4 1 1 9 3 3 8 1 1 2 6 6 4 1 1 2 6 4 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 4 1 1 1 1 1 1 1 1 2 6 6 4 1 1 2 6 4 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 4 1 1 1 1 1 1 1 1 2 6 6 4 1 1 2 6 4 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 6 7 7 7 7 7 7 7 7 6 6 6 4 1 1 2 6 4 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 1 1 2 6 4 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 3 3 3 3 3 3 3 3 3 3 3 3 3 8 1 1 2 6 4 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 6 4 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 6 6 4 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 4 1 1 10 7 7 7 7 7 7 7 7 7 7 7 7 7 6 6 4 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 4 1 1 2 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 4 0 1 9 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 8 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 6 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6</TileRow>
+      <TileRow> 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6</TileRow>
+    </Layer>
+  </TileLayer>
+  <CollisionMap Width="30" Height="30">
+    <CollisionRow> 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 1 1 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 1 1 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</CollisionRow>
+    <CollisionRow> 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</CollisionRow>
+  </CollisionMap>
+</TileMap>
