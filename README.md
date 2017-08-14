@@ -6,6 +6,7 @@ Tower defense (TD) is a subgenre of strategy video game where the goal is to def
 ## Index
 
 - [Demo](https://github.com/wahabjawed/tower-defense-game#demo)
+  - [Screenshots](https://github.com/wahabjawed/tower-defense-game#screenshots)
 - [Game Features](https://github.com/wahabjawed/tower-defense-game#game-features)
   - [Controls](https://github.com/wahabjawed/tower-defense-game#controls)
 - [Installation](https://github.com/wahabjawed/tower-defense-game#installation)
@@ -23,6 +24,13 @@ Tower defense (TD) is a subgenre of strategy video game where the goal is to def
 Follow the youtube video to see the features of the game
 
 Coming Soon
+
+
+### Screenshots
+
+[[Back to top]](https://github.com/wahabjawed/tower-defense-game#index)
+
+![Tower Defense](http://i.imgur.com/OEEQc8b.gif)
 
 ## Game Features
 
