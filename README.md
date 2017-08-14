@@ -1,6 +1,8 @@
 # Tower Defense Game
 Tower Defense Game and Map Editor on `XNA Game Studio`
 
+Tower defense (TD) is a subgenre of strategy video game where the goal is to defend a player's territories or possessions by obstructing the enemy attackers, usually achieved by placing defensive structures on or along their path of attack.
+
 ## Index
 
 - [Demo](https://github.com/wahabjawed/tower-defense-game#demo)
